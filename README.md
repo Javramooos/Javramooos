@@ -19,7 +19,6 @@
 ![Framer Motion](https://img.shields.io/badge/FRAMER_MOTION-000000?style=for-the-badge&logo=framer&logoColor=white)
 ![Vite](https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
