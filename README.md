@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Javramooos&show_icons=true&theme=dark&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&include_all_commits=true&count_private=true&cache=1793792104" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Javramooos&layout=compact&theme=dark&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=CCCCCC&cache=1793792104" alt="Top Languages" width="49%" />
+  <img src="https://raw.githubusercontent.com/Javramooos/Javramooos/main/top-langs.svg" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
