@@ -1,8 +1,8 @@
-# █ JAVIER RAMOS // FULL STACK DEVELOPER
+# JAVIER RAMOS // FULL STACK DEVELOPER
 
 ---
 
-## ▓ TECH STACK & ARSENAL
+## TECH STACK & ARSENAL
 
 ### Core, Backend & Database
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,7 +23,7 @@
 
 ---
 
-## ▓ ACTIVE ARTIFACTS & SYSTEMS
+## ACTIVE ARTIFACTS & SYSTEMS
 
 | INDEX | SYSTEM / PLATFORM | ARCHITECTURE & STACK | STATUS |
 |:---:|:---|:---|:---:|
@@ -31,10 +31,10 @@
 
 ---
 
-## ▓ TELEMETRY & RUNTIME STATS
+## TELEMETRY & RUNTIME STATS
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Javramooos&show_icons=true&theme=dark&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Javramooos&show_icons=true&theme=dark&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Javramooos&layout=compact&theme=dark&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" width="49%" />
 </p>
 
