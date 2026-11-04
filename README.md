@@ -52,16 +52,14 @@ CORE      : Function over form // Zero bloat // Production-first
 
 ## ▓ TELEMETRY & RUNTIME STATS
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Javramooos&show_icons=true&theme=dark&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Javramooos&layout=compact&theme=dark&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" width="49%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Javramooos&show_icons=true&theme=dark&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&hide_border=false" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javramooos&layout=compact&theme=dark&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=CCCCCC&hide_border=false" alt="Top Languages" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Javramooos&theme=dark&background=000000&border=333333&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="97%" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Javramooos&theme=dark&background=000000&border=333333&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="98%" />
+</p>
 
 ---
 
