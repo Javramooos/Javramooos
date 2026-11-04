@@ -37,16 +37,10 @@
 ## TELEMETRY & RUNTIME STATS
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Javramooos&show_icons=true&theme=dark&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&include_all_commits=true&count_private=true&cache=1793792415" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Javramooos&layout=compact&theme=dark&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=CCCCCC&cache=1793792415" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Javramooos&show_icons=true&theme=dark&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&include_all_commits=true&count_private=true&cache=1793792668" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Javramooos&layout=compact&theme=dark&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=CCCCCC&cache=1793792668" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Javramooos&theme=dark&background=000000&border=333333&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&cache=1793792415" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=Javramooos&theme=dark&background=000000&border=333333&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&cache=1793792668" alt="GitHub Streak" width="98%" />
 </p>
-
----
-
-```text
-[EOF] -- END OF PROFILE SPECIFICATION
-```
