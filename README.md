@@ -1,32 +1,52 @@
- JAVIER RAMOS // FULL STACK DEVELOPER
+# █ JAVIER RAMOS // FULL STACK DEVELOPER
 
+```text
+======================================================================
+SYSTEM LOG: PROFILE_INITIALIZED
+USER      : Javramooos
+ROLE      : Full Stack Engineer
+CORE      : Function over form // Zero bloat // Production-first
+======================================================================
+```
 
+```
+┌────────────────────────────────────────────────────────────────────┐
+│ [01] ARCHITECTURAL PHILOSOPHY                                      │
+├────────────────────────────────────────────────────────────────────┤
+│ • Modular architectures with strict separation of concerns.        │
+│ • Predictable state flow, component-driven UI and resilient logic. │
+│ • High-performance web applications built from foundation up.      │
+└────────────────────────────────────────────────────────────────────┘
+```
+
+---
 
 ## ▓ TECH STACK & ARSENAL
 
-### Core & Frameworks
+### Core, Backend & Database
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/REACT_18-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/REACT_19-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Drizzle ORM](https://img.shields.io/badge/DRIZZLE_ORM-000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB)
 
-### Tooling & Build Engine
+### UI Architecture & Tooling
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Framer Motion](https://img.shields.io/badge/FRAMER_MOTION-000000?style=for-the-badge&logo=framer&logoColor=white)
 ![Vite](https://img.shields.io/badge/VITE-000000?style=for-the-badge&logo=vite&logoColor=646CFF)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## ▓ ACTIVE ARTIFACTS & CODEBASES
+## ▓ ACTIVE ARTIFACTS & SYSTEMS
 
-| INDEX | PROJECT | ARCHITECTURE & STACK | STATUS |
+| INDEX | SYSTEM / PLATFORM | ARCHITECTURE & STACK | STATUS |
 |:---:|:---|:---|:---:|
-| **01** | [`proyecto-final`](https://github.com/Javramooos/proyecto-final) | **React 18 + Vite + React Router**<br>SPA modular, enrutamiento del lado del cliente y componentes desacoplados. | `SHIPPED` |
-| **02** | [`ImagineDragon`](https://github.com/Javramooos/ImagineDragon) | **PWA + Web Standards + Service Worker**<br>Arquitectura offline-first, assets optimizados y diseño responsive nativo. | `SHIPPED` |
-| **03** | [`Portfolio`](https://github.com/Javramooos/Portfolio) | **Vanilla JavaScript + Web Audio Engine**<br>Control de DOM crudo, audio player personalizado y layout responsivo sin frameworks. | `ACTIVE` |
+| **01** | [**Dra. Andrea Díaz — Clinical Portal**](https://andreadiazmd.com) | **React 19 + Vite + Node.js + Express + PostgreSQL + Drizzle ORM**<br>Plataforma clínica integral de medicina estética y salud. Arquitectura full-stack con diseño editorial responsivo en Tailwind CSS, microinteracciones con Framer Motion, backend Express securizado con Helmet/CORS y persistencia relacional con Drizzle ORM. | `PRODUCTION` |
 
 ---
 
