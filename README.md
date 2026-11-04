@@ -1,25 +1,6 @@
-# █ JAVIER RAMOS // FULL STACK DEVELOPER
+ JAVIER RAMOS // FULL STACK DEVELOPER
 
-```text
-======================================================================
-SYSTEM LOG: PROFILE_INITIALIZED
-USER      : Javramooos
-ROLE      : Full Stack Engineer
-CORE      : Function over form // Zero bloat // Production-first
-======================================================================
-```
 
-```
-┌────────────────────────────────────────────────────────────────────┐
-│ [01] ARCHITECTURAL PHILOSOPHY                                      │
-├────────────────────────────────────────────────────────────────────┤
-│ • Modular architectures with strict separation of concerns.        │
-│ • Predictable state flow, component-driven UI and resilient logic. │
-│ • High-performance web applications built from foundation up.      │
-└────────────────────────────────────────────────────────────────────┘
-```
-
----
 
 ## ▓ TECH STACK & ARSENAL
 
